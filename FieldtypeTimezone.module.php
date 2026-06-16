@@ -4,7 +4,7 @@
  * FieldtypeTimezone - Simple and reliable timezone fieldtype for ProcessWire
  *
  * @version 1.0.1
- * @author Maxim Alex
+ * @author Maxim Semenov <maxim@smnv.org> (smnv.org)
  */
 class FieldtypeTimezone extends Fieldtype {
 
@@ -13,8 +13,8 @@ class FieldtypeTimezone extends Fieldtype {
             'title'    => 'Timezone',
             'version'  => 101,
             'summary'  => 'Fieldtype for storing timezone values with dynamic UTC offsets.',
-            'author'   => 'Maxim Alex',
-            'href'     => 'https://github.com/mxmsmnv/FieldtypeTimezone',
+            'author'   => 'Maxim Semenov',
+            'href'     => 'https://smnv.org',
             'installs' => ['InputfieldTimezone'],
             'icon'     => 'clock-o',
             'requires' => 'ProcessWire>=3.0.0, PHP>=8.1.0',

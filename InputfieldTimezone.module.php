@@ -4,7 +4,7 @@
  * InputfieldTimezone - Simple timezone inputfield for ProcessWire
  *
  * @version 1.0.1
- * @author Maxim Alex
+ * @author Maxim Semenov <maxim@smnv.org> (smnv.org)
  */
 class InputfieldTimezone extends InputfieldSelect {
 
@@ -22,7 +22,8 @@ class InputfieldTimezone extends InputfieldSelect {
             'title'    => 'Timezone Inputfield',
             'version'  => 101,
             'summary'  => 'Simple inputfield for selecting timezones with dynamic UTC offsets.',
-            'author'   => 'Maxim Alex',
+            'author'   => 'Maxim Semenov',
+            'href'     => 'https://smnv.org',
             'requires' => ['FieldtypeTimezone'],
             'icon'     => 'clock-o',
         ];
