@@ -2,6 +2,8 @@
 
 **Module Name**: FieldtypeTimezone / InputfieldTimezone  
 
+![FieldtypeTimezone](assets/FieldtypeTimezone.png)
+
 **Author:** Maxim Semenov  
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
